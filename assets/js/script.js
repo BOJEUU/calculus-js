@@ -11,7 +11,7 @@ let numériqueArray = [...numérique];
 
 
 
-//tout les id a récup
+//tout les id a récupdd
 let plusElement = document.getElementById("plus");
 let minusElement = document.getElementById("minus");
 let multipleElement = document.getElementById("multiple");
