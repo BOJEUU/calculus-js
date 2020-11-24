@@ -25,7 +25,7 @@ let bojeuu = false;
 let symbolElement = document.getElementById("symbol");
 const spanResult = document.getElementById('spanResult');
 
-//ajouter du texte a nos spans
+//ajouter du textes a nos spans
 numériqueArray.forEach(element => {
     element.classList.add('buttonHeight', 'fontSize','m-1');
     element.addEventListener('click', () => {
